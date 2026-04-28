@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0fad7f2-6dcf-417a-a84f-2eee171407a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/capstone/capstone-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/androidTest/java/com/example/littlelemoncapstone/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/java/com/example/littlelemoncapstone/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/java/com/example/littlelemoncapstone/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/java/com/example/littlelemoncapstone/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/java/com/example/littlelemoncapstone/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/app/src/test/java/com/example/littlelemoncapstone/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/newfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/little-lemon/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/calculator-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/create-component/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/components/Intro1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/components/Intro2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/components/Intro3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/components/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/components/Promo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/customizing-example/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/embedding-example/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/Btn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/Child.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/Heading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/Hooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/ModeToggler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/Promo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/PromoHeading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/event-handler/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module2-lab2/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/HomePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/LoginButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/LogoutButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/module3-lab1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/multiple-componets/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/components/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/components/Sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-example/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/Heading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/components/Styling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/props-lab/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/react-lab-2/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/components/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/components/MealsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/providers/MealsProvider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/state-management/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/AboutMe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/Assets/images/central-perk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/AudioVideo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/Conditional.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/EmbeddedAssets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/Homepage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/SongSelection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/the-navbar/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-basics/use-reducer/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/components/LittleLemonHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/components/MenuItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/components/MenuItemsSectionsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/components/TextInputComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/components/WelcomeScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/react-native/first-rn-component/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=/Users/meenujohnson96/.android/avd/Pixel_9.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/capstone" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$PROJECT_DIR$/../.gradle/wrapper/dists/gradle-9.3.1-bin/23ovyewtku6u96viwx3xl3oks/gradle-9.3.1" javaHome="$APPLICATION_HOME_DIR$/jbr/Contents/Home" gradleVersion="9.3.1" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3CzmMum8p6wbr1MmELPGAHCG0uf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Capstone.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0fad7f2-6dcf-417a-a84f-2eee171407a5" name="Changes" comment="" />
+      <created>1777396727624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777396727624</updated>
+    </task>
+    <servers />
+  </component>
+</project>
